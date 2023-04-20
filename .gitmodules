@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "BayesQVGEL"]
 	path = BayesQVGEL
-	url = https://github.com/kunfa/bayesqvgel
+	url = https://github.com/cran/BayesQVGEL
 	shallow = true
 	registered = true
