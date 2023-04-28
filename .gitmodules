@@ -3,8 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "BayesQVGEL"]
-	path = BayesQVGEL
-	url = https://github.com/cran/BayesQVGEL
+[submodule "mixedBayes"]
+	path = mixedBayes
+	url = https://github.com/kunfa/mixedbayes
 	shallow = true
 	registered = true
